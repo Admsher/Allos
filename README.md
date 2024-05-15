@@ -1,7 +1,13 @@
 # Allos Submision
 
 ## Setup
+Ensure you have the following packages installed:
 
+Flask: A lightweight web framework for building web applications in Python.
+NumPy: A powerful library for numerical computing with support for multi-dimensional arrays and matrices.
+Pandas: A versatile library for data manipulation and analysis.
+TensorFlow (tf): An open-source machine learning framework for building and training models.
+OpenCV (cv2): A library for computer vision and image processing tasks.
 
 ## Model ##
 MobileNetV2 is a convolutional neural network architecture specifically designed for efficient deep learning inference on mobile and embedded devices. It serves as an ideal backbone network for object detection tasks, offering a balance between accuracy and computational efficiency, making it suitable for deployment in resource-constrained environments.
