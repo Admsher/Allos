@@ -28,3 +28,10 @@ Inverted Residuals: Lightweight depthwise convolutions followed by pointwise con
 Linear Bottlenecks: By employing linear activations in bottleneck layers, MobileNetV2 reduces computational cost and improves gradient flow during training.
 
 Width Multiplier and Resolution Multiplier: These hyperparameters offer flexibility to adjust the model's size and computational complexity according to the requirements of the target device or application.
+
+
+## Deployment 
+Used Gunicorn and apache2 on Ubuntu 24.04 to hostthe app on a local server  (http://10.30.30.195:8000/)
+
+
+Please note that if the site is unresponsive I might have killed to save battery power ad storage of laptop. So please just send me a mail if the problem is persisting and I will re initiate the srever whwnever needed.
