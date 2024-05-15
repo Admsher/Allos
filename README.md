@@ -1,4 +1,4 @@
-##Allos Submision
+## Allos Submision
 
 The packages required for the application are: /n
 Flask /n
@@ -7,4 +7,4 @@ CV2 /n
 Numpy /n
 Pandas /n
 
-#model#
+# model #
