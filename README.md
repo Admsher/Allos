@@ -17,6 +17,11 @@ TensorFlow (tf): An open-source machine learning framework for building and trai
 
 OpenCV (cv2): A library for computer vision and image processing tasks.
 
+
+To run the proram locally , just locate in the directory and run the command
+
+```bash python app.py
+
 ## Model ##
 MobileNetV2 is a convolutional neural network architecture specifically designed for efficient deep learning inference on mobile and embedded devices. It serves as an ideal backbone network for object detection tasks, offering a balance between accuracy and computational efficiency, making it suitable for deployment in resource-constrained environments.
 
