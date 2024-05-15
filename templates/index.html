@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Image  </title>
+    
+
+</head>
+<body>
+    <h4>This is an API which sends a jpeg,png image to an Object Detection ML model base on MediaVet2 and sends the processed data in the from of json array type format,
+        you will see three types of data in the result:<p>
+        1.Bounding box coordinates<p>
+        2.Class labels<p>
+        3.Confidence scores<p>
+        Use Ctrl+F to your advantage to find the required parameters in the huge result  arrayset.<p>
+        To operate the program send the image from your local device and then click upload.
+    </h4>
+    <h2>Upload Image</h2>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="submit" value="Upload">
+    </form>
+</body>
+</html>
