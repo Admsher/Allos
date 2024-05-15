@@ -39,7 +39,7 @@ Width Multiplier and Resolution Multiplier: These hyperparameters offer flexibil
 Used Gunicorn and apache2 on Ubuntu 24.04 to hostthe app on a local server  (http://10.30.30.195:8000/)
 
 
-Please note that if the site is unresponsive, I might have killed to save battery power and storage of local laptop. So please just send me a mail(f20211826@goa.bits-pilani.ac.in) if the problem is persisting and I will re initiate the server whenever needed.
+Please note that if the site is unresponsive, I might have killed the server to save battery power and storage of local laptop. So please just send me a mail(f20211826@goa.bits-pilani.ac.in) if the problem is persisting and I will re initiate the server whenever needed.
 
 ## Result
 A user can expect a huge JSON format array after the process which will contain relevant information about the image used in object detection.
