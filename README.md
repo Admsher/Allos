@@ -36,7 +36,7 @@ Width Multiplier and Resolution Multiplier: These hyperparameters offer flexibil
 
 
 ## Deployment 
-Used Gunicorn and apache2 on Ubuntu 24.04 to hostthe app on a local server  (http://10.30.30.195:8000/)
+Used Gunicorn and apache2 on Ubuntu 24.04 to hostthe app on a local server  (http://192.168.86.23 )
 
 
 Please note that if the site is unresponsive, I might have killed the server to save battery power and storage of local laptop. So please just send me a mail(f20211826@goa.bits-pilani.ac.in) if the problem is persisting and I will re initiate the server whenever needed.
